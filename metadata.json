@@ -1,0 +1,7 @@
+{
+  "name": "AI Fashion Stylist",
+  "description": "A virtual try-on application that provides personalized style recommendations and fashion advice through an AI-powered chatbot. Users can upload their photo and a clothing item to see how it looks, get recommendations based on their preferences, and chat with a fashion expert.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
